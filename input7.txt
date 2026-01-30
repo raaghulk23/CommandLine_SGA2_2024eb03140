@@ -1,0 +1,12 @@
+aei
+iou
+umbrella
+aea
+radius
+iouae
+words
+hello 
+world
+hi
+try
+cry

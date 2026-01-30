@@ -1,0 +1,8 @@
+Log Summary on - 2026-01-29
+Log file: log1.txt
+-----------------------------
+Total log entries:        4
+INFO messages: 1
+WARNING messages: 1
+ERROR messages: 2
+Most recent ERROR: 2025-01-12 10:17:10 ERROR Network timeout
